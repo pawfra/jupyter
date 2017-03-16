@@ -1,4 +1,6 @@
 f
 new line
+
  a o co chodzi?
+after merge
 
